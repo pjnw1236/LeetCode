@@ -1,2 +1,1 @@
-# LeetCode
-LeetCode 및 "파이썬 알고리즘 인터뷰" 풀이 
+# LeetCode 문제 풀이
